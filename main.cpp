@@ -1,4 +1,3 @@
-#include <iostream>
 #include "includes/vector_demo.h"
 #include "includes/string_demo.h"
 #include "includes/smart_ptr_demo.h"

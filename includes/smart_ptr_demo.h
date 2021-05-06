@@ -5,6 +5,8 @@
 #ifndef MODERN_CPP_DEMO_SMART_PTR_DEMO_H
 #define MODERN_CPP_DEMO_SMART_PTR_DEMO_H
 
+#include <iostream>
+
 int smart_ptr_main();
 
 class VeryLargeObj {

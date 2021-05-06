@@ -1,6 +1,13 @@
 # bslab-tutorium
 A small repository which showcases some of the modern C++ features
 
+Usage:
+- Download the source files from git
+- Comment out everything you don't want to have a look at (for example you can comment out the vector_main() call in the main() function)
+- Navigate to the folder you just downloaded it to and use `cmake`
+- After you've executed the `cmake` command use `make` 
+- Now you can run the resulting executable 
+
 ## Sections
 
 ### std::vector

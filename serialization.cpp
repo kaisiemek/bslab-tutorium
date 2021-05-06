@@ -5,7 +5,7 @@
 
 #include "includes/serialization_object.h"
 
-static constexpr char filePath[] {"/Users/kai/Desktop/file.bin"};
+static constexpr char filePath[] {"/Path/to/demo/file"};
 static constexpr int blockSize {64};
 
 void showcase_deserialization();
